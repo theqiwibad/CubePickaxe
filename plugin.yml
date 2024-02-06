@@ -1,0 +1,10 @@
+name: "CubePickaxe"
+version: "1.0.0"
+main: "CubePickaxe"
+api: "5.0.0"
+
+website: "https://vk.com/bedrocktimestudio"
+author: "BedrockTimeStudio"
+
+load: "STARTUP"
+depend: ["CustomEnchantments"]
